@@ -483,7 +483,7 @@ namespace CodeRedeemer
             m_GlobalHook.MouseDownExt -= MouseClickAll;
             m_GlobalHook.KeyPress -= KeyPressAll;
 
-            //It is recommened to dispose it
+            //It is recommended to dispose it
             m_GlobalHook.Dispose();
         }
 
