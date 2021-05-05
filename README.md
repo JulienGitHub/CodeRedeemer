@@ -10,3 +10,6 @@ Using InputSimulator to simulate mouse clicks and Ctrl+V
 
 Using MouseKeyHook to be able to stop the thread/script from running with q
 
+
+
+
