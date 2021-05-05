@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeRedeemer", "Code Redeemer\CodeRedeemer.csproj", "{68871065-B5A0-4063-A5FF-91B0AFF2E6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68871065-B5A0-4063-A5FF-91B0AFF2E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68871065-B5A0-4063-A5FF-91B0AFF2E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68871065-B5A0-4063-A5FF-91B0AFF2E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68871065-B5A0-4063-A5FF-91B0AFF2E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80ECA19A-1845-483C-8C89-4D8F0A510755}
+	EndGlobalSection
+EndGlobal
