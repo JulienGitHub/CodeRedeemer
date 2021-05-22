@@ -240,8 +240,11 @@ namespace CodeRedeemer
             }
             else
             {
-                Clipboard.SetText(textBoxCodes.Lines[0]);
-                SendKeys.Send("^{v}");
+                if (textBoxCodes.Lines[0].Length > 0)
+                {
+                    Clipboard.SetText(textBoxCodes.Lines[0]);
+                    SendKeys.Send("^{v}");
+                }
             }
         }
         public void ScriptThreadFunction()
