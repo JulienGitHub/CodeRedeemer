@@ -1,6 +1,5 @@
 # code 1
 MouseClick|26;81
-<<<<<<< HEAD
 Sleep|750
 CopyPaste|None
 Sleep|750
@@ -156,7 +155,6 @@ CopyPaste|None
 Sleep|500
 MouseClick|28;90
 Sleep|500
->>>>>>> cfea179b3ab1291442b6bc5bece7329dd7477ff2
 
 # claim button
 MouseClick|62;90
@@ -166,5 +164,3 @@ Sleep|2000
 # done button
 MouseClick|43;90
 Sleep|1000
-=======
->>>>>>> cfea179b3ab1291442b6bc5bece7329dd7477ff2
