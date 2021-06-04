@@ -77,89 +77,10 @@ CopyPaste|None
 Sleep|750
 MouseClick|28;90
 Sleep|750
-=======
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 2
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 3
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 4
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 5
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 6
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 7
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 8
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 9
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
-
-# code 10
-MouseClick|26;81
-Sleep|500
-CopyPaste|None
-Sleep|500
-MouseClick|28;90
-Sleep|500
 
 # claim button
 MouseClick|62;90
 Sleep|2000
-<<<<<<< HEAD
 
 # done button
 MouseClick|43;90
