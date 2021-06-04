@@ -2,6 +2,7 @@
 
 Not yet fully tested (out of codes)
 
+Added Redeemer.zip (EXE + DLLs + sample script)
 
 C#/Winform project compiled with Visual Studio Community 2019
 
