@@ -13,6 +13,7 @@ Using MouseKeyHook to be able to stop the thread/script from running with q
 
 
 ![image](https://user-images.githubusercontent.com/8526787/117187049-c9cc8900-addb-11eb-82f7-afbe2a840764.png)
+
 1	Paste your list of codes
 
 2	Click to locate the PTCGO Window (It will display the coordinates next to the button) / PTCGO must be running
