@@ -152,8 +152,8 @@ namespace CodeRedeemer
 
         private void buttonFindPTCGO_Click(object sender, EventArgs e)
         {
-            CheckWindow();
-            LocateWindow();
+            if(CheckWindow())
+                LocateWindow();
         }
 
         private void LocateWindow()
@@ -161,7 +161,7 @@ namespace CodeRedeemer
             GetWindowRect(PTCGOProcess.MainWindowHandle, ref mWindowRect);
             labelPTCGOPos.Text = "left: " + mWindowRect.Left.ToString() + " top:" + mWindowRect.Top.ToString() + " right:" + mWindowRect.Right.ToString() + " bottom:" + mWindowRect.Bottom.ToString() + " w:" + (mWindowRect.Right - mWindowRect.Left).ToString() + " h:" + (mWindowRect.Bottom - mWindowRect.Top).ToString();
         }
-        private void CheckWindow()
+        private bool CheckWindow()
         {
             
             //string sProcess = "notepad";
@@ -183,7 +183,7 @@ namespace CodeRedeemer
                 DialogResult result;
 
                 result = MessageBox.Show(message, caption, buttons);
-                return;
+                return false;
             } 
              
             buttonAddClick.Enabled = true;
@@ -191,6 +191,7 @@ namespace CodeRedeemer
             textSleepMS.Enabled = true;
             buttonSleep.Enabled = true;
             buttonTest.Enabled = true;
+            return true;
         }
 
         delegate void SetTextCallback(string[] text);
