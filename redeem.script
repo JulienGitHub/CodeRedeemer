@@ -1,82 +1,82 @@
 # code 1
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 2
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 3
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 4
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 5
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 6
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 7
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 8
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 9
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # code 10
 MouseClick|26;81
-Sleep|750
+Sleep|1000
 CopyPaste|None
-Sleep|750
+Sleep|1000
 MouseClick|28;90
-Sleep|750
+Sleep|1000
 
 # claim button
 MouseClick|62;90
